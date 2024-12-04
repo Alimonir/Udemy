@@ -1,0 +1,9 @@
+# Ignore config.php
+config.php
+
+# Ignore the templates directory
+/templates/
+
+# Ignore the vendor directory
+/vendor/
+notes.php
